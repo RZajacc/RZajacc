@@ -1,8 +1,8 @@
-###Hello, and welcome to my profile!
+<h1>Hello, and welcome to my profile! </h1>
 <hr/>
 I'm Rafał Zając, and I recently graduated as a Full-Stack developer from code Academy. 
 
-I speak Polish, English and my German is currently around B1 level. 
+💬 I speak Polish, English and my German is currently around B1 level. 
 
 🔭 Currently I'm working on improving my portfolio projects with a strong emphasis on testing
 (unit and end-to-end) and styling. Most of my time I'm working on my MarsRover project.
@@ -17,7 +17,7 @@ projects in this regard.
 
 📫 If you would like to contact me, just send me an email : rf.zajac@gmail.com
 
-##Tech-Stack
+<h2>Tech-Stack</h2>
 HTML | CSS | JS | Typescript | React.js | Node.js | MongoDB | Firebase | GraphQL  
 
 
