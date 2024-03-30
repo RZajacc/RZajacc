@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, and welcome to my profile!
+
+<hr/>
+
+## I graduated 
 
 <!--
 **RZajacc/RZajacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
