@@ -1,7 +1,5 @@
 <h1>Hello, and welcome to my profile! </h1>
 
-<hr/>
-
 I'm Rafał Zając, and I recently graduated as a Full-Stack developer from code Academy. 
 
 💬 I speak Polish, English and my German is currently around B1 level. 
