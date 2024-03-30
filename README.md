@@ -1,20 +1,23 @@
-### Hello, and welcome to my profile!
-
+###Hello, and welcome to my profile!
 <hr/>
+I'm Rafał Zając, and I recently graduated as a Full-Stack developer from code Academy. 
 
-## I graduated 
+I speak Polish, English and my German is currently around B1 level. 
 
-<!--
-**RZajacc/RZajacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently I'm working on improving my portfolio projects with a strong emphasis on testing
+(unit and end-to-end) and styling. Most of my time I'm working on my MarsRover project.
 
-Here are some ideas to get you started:
+🌱 I’m dedicated to build more solid foundations for my skills, so currently I'm focusing a bit more
+on vanilla JS, CSS and Sass.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I used to think CSS is the most boring tool and tended to overuse styling libraries like bootstrap, 
+and focus entirely on building page logic with JS or React. Now I think that as much as it got me some momentum 
+at the beginning it was not a way to go. Therefore I'm spending now a lot of time and effort on refactoring my 
+projects in this regard. 
+
+📫 If you would like to contact me, just send me an email : rf.zajac@gmail.com
+
+##Tech-Stack
+HTML | CSS | JS | Typescript | React.js | Node.js | MongoDB | Firebase | GraphQL  
+
+
