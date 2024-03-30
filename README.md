@@ -17,6 +17,8 @@ projects in this regard.
 
 📫 If you would like to contact me, just send me an email : rf.zajac@gmail.com
 
+<hr/>
+
 <h2>Tech-Stack</h2>
 HTML | CSS | JS | Typescript | React.js | Node.js | MongoDB | Firebase | GraphQL  
 
