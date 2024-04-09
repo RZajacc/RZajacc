@@ -21,6 +21,6 @@ projects in this regard.
 <hr/>
 
 <h2>Tech-Stack</h2>
-HTML | CSS | JS | Typescript | React.js | Node.js | MongoDB | Firebase | GraphQL  
+HTML | CSS | Sass | JS | Typescript | React.js | Node.js | MongoDB | Firebase | GraphQL  
 
 
