@@ -14,7 +14,7 @@ and focus entirely on building page logic with JS or React. Now I think that as 
 at the beginning it was not a way to go. Therefore I'm spending now a lot of time and effort on refactoring my 
 projects in this regard. 
 
-📫 If you would like to contact me, just send me an email : rf.zajac@gmail.com
+📫 If you would like to contact me, just send me an email : rf.zajac@tutamail.com
 
 <hr/>
 
