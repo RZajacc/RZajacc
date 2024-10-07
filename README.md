@@ -8,7 +8,7 @@ I'm Rafał Zając, and I recently graduated as a Full-Stack developer from code 
 
 🌱 I’m dedicated to build more solid foundations for my skills, currently I'm focusing on PostgreSQL
 
-⚡ Fun fact: While learning I started to love and appreciate everything I was skeptical about in the first place. Amount of negative thougts around new tools I'm using seem to be a good predictor for future use. 
+⚡ Fun fact: While learning I started to love and appreciate everything I was skeptical about in the first place. Amount of negative thougts around new tools I'm using seem to be a good a pretty decent predictor for future use... 
 
 📫 If you would like to contact me, just send me an email : rf.zajac@tutamail.com
 
