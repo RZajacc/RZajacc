@@ -2,23 +2,19 @@
 
 I'm Rafał Zając, and I recently graduated as a Full-Stack developer from code Academy. 
 
-💬 I speak Polish, English and my German is currently around B1 level. 
+💬 I speak Polish, English and my German is currently around B2 level. 
 
-🔭 I'm working on improving my portfolio projects on a daily basis. Currently most of my time I'm working on my TotArt_2.0.
+🔭 I'm working on improving my portfolio projects on a daily basis. 
 
-🌱 I’m dedicated to build more solid foundations for my skills, so currently I'm focusing a bit more
-on vanilla JS, CSS and Sass.
+🌱 I’m dedicated to build more solid foundations for my skills, currently I'm focusing on PostgreSQL
 
-⚡ Fun fact: I used to think CSS is the most boring tool and tended to overuse styling libraries like bootstrap, 
-and focus entirely on building page logic with JS or React. Now I think that as much as it got me some momentum 
-at the beginning it was not a way to go. Therefore I'm spending now a lot of time and effort on refactoring my 
-projects in this regard. 
+⚡ Fun fact: While learning I started to love and appreciate everything I was skeptical about in the first place. Amount of negative thougts around new tools I'm using seem to be a good predictor for future use. 
 
 📫 If you would like to contact me, just send me an email : rf.zajac@tutamail.com
 
 <hr/>
 
 <h2>Tech-Stack</h2>
-HTML | CSS | Sass | TailwindCSS | JS | Typescript | React.js | Next.js | Node.js | MongoDB | Firebase | GraphQL  
+React || Next.js || TypeScript || Sass || Tailwind CSS || Node.js || Express || MongoDB || Firebase
 
 
