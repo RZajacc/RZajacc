@@ -10,7 +10,7 @@ I'm Rafał Zając, and I recently graduated as a Full-Stack developer from code 
 
 ⚡ Fun fact: While learning, I began to love and appreciate everything I was initially skeptical about. The amount of negative thoughts I had around the new tools I was using seems to be a surprisingly good predictor of their future utility...
 
-📫 If you would like to contact me, just send me an email : rf.zajac@tutamail.com
+📫 If you would like to contact me, just send me an email : rf.zajac@gmail.com
 
 <hr/>
 
