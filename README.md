@@ -18,7 +18,7 @@ I'm Rafał Zając, and I recently graduated as a Full-Stack developer from code 
 <h4>Frontend</h4>
 React || Next.js || TypeScript || Sass || CSS || Tailwind CSS || Jest
 <h4>Backend</h4>
-Node.js || Express || GraphQL || Mongoose || JWT
+Node.js || Express || Mongoose || REST || GraphQL || JWT
 <h4>Databases</h4>
 MongoDB || PostgreSQL
 <h4>Devops</h4>
