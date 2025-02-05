@@ -16,13 +16,13 @@ I'm Rafał Zając, and I recently graduated as a Full-Stack developer from code 
 
 <h2>Tech-Stack</h2>
 
-<h5>Frontend</h5>
+<h4>Frontend</h4>
 React || Next.js || TypeScript || Sass || CSS || Tailwind CSS || Jest
 
-<h5>Backend</h5>
+<h4>Backend</h4>
 Node.js || Express || MongoDB || Mongoose || PostgreSQL || GraphQL || JWT
 
-<h5>Devops</h5>
+<h4>Devops</h4>
 Docker || AWS (EC2) || Bash
 
 
