@@ -1,26 +1,20 @@
-<h1>Hello, and welcome to my profile! </h1>
+<h1>Full Stack Developer</h1>
 
-I'm Rafał Zając, and I am currently gaining my first professional experience as a full stack web developer. Currently I am working mainly
-with React and NestJS, but I am always open for learning something new. 
+I'm Rafał, a full stack developer based in Berlin. I build web applications with React, TypeScript, and Node.js, working across frontend, backend, and database layers. I care about shipping solid solutions that solve real problems—not just writing code.
 
-💬 I speak Polish, English and to some extent also German (around B2 level). 
+My background is unconventional: PhD in sport science, professional data analyst, now software developer. That shaped how I work—analytical, data-driven, comfortable translating complex requirements into practical systems.
 
-🌱 I’m dedicated to contantly learn and build more solid foundations for my skills. 
-
-⚡ Fun fact: While learning, I usually end up appreciating the most everything I was initially not really fond of.
-
-📫 If you would like to contact me, just send me an email : rf.zajac@gmail.com
-
-<hr/>
+I enjoy owning projects end-to-end, thinking about architecture, and collaborating across teams. I'm also fluent in English and Polish, speak German professionally, and based in Berlin.
 
 <h2>Tech-Stack</h2>
-<h4>Frontend</h4>
-React || Next.js || TypeScript || Zustand || Tailwind CSS || MaterialUI || Jest
-<h4>Backend</h4>
-Nest.js || Node.js || Typescript
-<h4>Databases</h4>
-MongoDB || PostgreSQL || MySQL
-<h4>Devops</h4>
-Docker || Github Actions || AWS 
+💻 **Frontend:** React | TypeScript | Javascript |  | Material UI | Zustand
 
+💻 **Backend & APIs:** NestJS | Node.js | REST API Development | Swagger/OpenAPI,
 
+💻 **Databases:** PostgreSQL | MySQL | TypeORM | MongoDB | Mongoose
+
+💻 **Testing:** Jest | React Testing Library | Unit Testing | Integration Testing
+
+💻 **DevOps & Cloud:** Docker | Git | GitHub Actions | AWS
+
+📧 rf.zajac@tutamail.com
