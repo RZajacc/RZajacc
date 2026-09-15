@@ -7,6 +7,7 @@ My background is unconventional: PhD in sport science, professional data analyst
 I enjoy owning projects end-to-end, thinking about architecture, and collaborating across teams. I'm also fluent in English and Polish, speak German professionally, and based in Berlin.
 
 <h2>Tech-Stack</h2>
+
 💻 **Frontend:** React | TypeScript | Javascript |  | Material UI | Zustand
 
 💻 **Backend & APIs:** NestJS | Node.js | REST API Development | Swagger/OpenAPI,
