@@ -8,14 +8,14 @@ I enjoy owning projects end-to-end, thinking about architecture, and collaborati
 
 <h2>Tech-Stack</h2>
 
-💻 **Frontend:** React | TypeScript | Javascript |  | Material UI | Zustand
+💻 **Frontend:** React | TypeScript | Javascript | | Zustand | Material UI | React Hook Form | Zod
 
-💻 **Backend & APIs:** NestJS | Node.js | REST API Development | Swagger/OpenAPI,
+💻 **Backend & APIs:** NestJS | Node.js | REST API Development | Swagger/OpenAPI | JWT Authentication
 
 💻 **Databases:** PostgreSQL | MySQL | TypeORM | MongoDB | Mongoose
 
 💻 **Testing:** Jest | React Testing Library | Unit Testing | Integration Testing
 
-💻 **DevOps & Cloud:** Docker | Git | GitHub Actions | AWS
+💻 **DevOps & Cloud:** Docker | Docker Compose | Git | GitHub Actions | AWS
 
 📧 rf.zajac@tutamail.com
