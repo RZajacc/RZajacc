@@ -1,10 +1,10 @@
 <h1>Full Stack Developer</h1>
 
-I'm Rafał, a full stack developer based in Berlin. I build web applications with React, TypeScript, and Node.js, working across frontend, backend, and database layers. I care about shipping solid solutions that solve real problems—not just writing code.
+I’m a Full Stack Software Developer with commercial experience in React, TypeScript, NestJS, Node.js and MySQL. 
 
-My background is unconventional: PhD in sport science, professional data analyst, now software developer. That shaped how I work—analytical, data-driven, comfortable translating complex requirements into practical systems.
+My path into software development has been gradual and consistent. Before moving fully into engineering, I spent several years in academic research and six years in professional sports analytics. 
 
-I enjoy owning projects end-to-end, thinking about architecture, and collaborating across teams. I'm also fluent in English and Polish, speak German professionally, and based in Berlin.
+This background shaped the way I work today: I’m highly analytical, data-driven and comfortable translating complex requirements into practical solutions. I’m based in Berlin, with professional English and advanced German currently progressing towards C1.
 
 <h2>Tech-Stack</h2>
 
