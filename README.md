@@ -8,7 +8,7 @@ I enjoy owning projects end-to-end, thinking about architecture, and collaborati
 
 <h2>Tech-Stack</h2>
 
-💻 **Frontend:** React | TypeScript | Javascript | | Zustand | Material UI | React Hook Form | Zod
+💻 **Frontend:** React | TypeScript | Javascript | Zustand | Material UI | React Hook Form | Zod
 
 💻 **Backend & APIs:** NestJS | Node.js | REST API Development | Swagger/OpenAPI | JWT Authentication
 
